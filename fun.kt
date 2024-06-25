@@ -1,5 +1,5 @@
 fun getPoints(basePoints: Int, boost: Int): Int { 
-    return basePoints * boost 
+    return (basePoints * boost)
 } 
  
 fun main() { 
